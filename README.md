@@ -51,7 +51,7 @@
 
 ### 🔗 Connect with Me
 - 📧 Email: **jhseo808@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/jeonghoseo/**
+- 💼 LinkedIn: **https://www.linkedin.com/in/jhseo808/**
 - 🧾 Portfolio: Detailed portfolio available upon request (Notion & GitHub)
 
 ---
